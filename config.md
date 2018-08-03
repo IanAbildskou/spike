@@ -2,7 +2,6 @@
  - Title: Daily Dilemmas
  - Initial Scene: intro
  - Max Value: 200
- - Review Feedback: true
 
 # Variables
  - strategic: 100
