@@ -19,4 +19,3 @@
 - strategic: true
 - accountability: true
 - ambiguity: true
-
